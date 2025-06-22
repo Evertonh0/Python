@@ -12,5 +12,5 @@ print(type(aluno['nota_final']))
 print(f'Nome: {aluno['nome']}')
 print(f'Idade: {aluno['idade']}')
 print(f'Nota Final: {aluno['nota_final']}')
-
+print('Fim do programa')
     
